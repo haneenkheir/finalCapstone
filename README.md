@@ -35,7 +35,7 @@ After installing the project, you can use it as follows:
 
 ## Screenshots
 
-![output](sentiment_analysis_output.png)
+![output](/sentiment_analysis_output.png)
 ## Credits
 
 This project was created by [Haneen Kheir ](https://github.com/haneenkheir). 
