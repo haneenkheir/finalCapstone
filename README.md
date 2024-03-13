@@ -35,7 +35,7 @@ After installing the project, you can use it as follows:
 
 ## Screenshots
 
-![output](finalCapstone/output.png)
+![output](output.png)
 ## Credits
 
 This project was created by [Haneen Kheir ](https://github.com/haneenkheir). 
